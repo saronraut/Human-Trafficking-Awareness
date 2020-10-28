@@ -18,7 +18,6 @@ Our group write-up/final analysis can be found in file:
 
 Saron's folder contains data analysis and visualizations based on Recruiter Relationship and Age Group
 
-<<<<<<< HEAD
 Liz's folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country:
 
 - Data_Exploration.ipynb --> this is the starting point of my data exploration and visualization and is a working file that was subsequently organized into the following two files:
@@ -34,9 +33,8 @@ Liz's folder contains data analysis and visualizations based on Citizenship Coun
     color_liz.xlsx excel data on colors assigned for nesting Pie Chart
 
 
-Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country
 
-Mara's folder contains data analysis map visulalizations supporting the findings from Liz
+Mara's folder contains data analysis and map visulalizations supporting the findings from Liz
 
 Sumit folder contains data analysis and visualizations based on labor and sexual exploitation.
 
