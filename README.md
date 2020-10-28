@@ -28,15 +28,12 @@ saron_working_file folder contains data analysis and visualizations based on Rec
 
 Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country
 
-<<<<<<< HEAD
 Mara folder contains data analysis map visulalizations supporting the findings from Liz
 
 Sumit folder contains data analysis and visualizations based on Industry and Age Group
-=======
 Mara folder contains data analysis map visualizations supporting the findings from Liz
 
 Sumit folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors
->>>>>>> c8d80e8d1aef805bcdb3be55ee605b1ecb83c4a7
 
 Lisa folder contains data analysis and visualizations including data for population density
 
