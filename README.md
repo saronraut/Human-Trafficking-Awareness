@@ -1,13 +1,7 @@
 # project-one
 
 This is the first project for the Data Analytics Boot Camp.
-The members of this project team are:
-    - Elizabeth Harrison
-    - Lisa Jemmings
-    - Shirley Limburg
-    - Saron Raut
-    - Mara Schemel
-    - Sumit Patel
+The members of this project team are: Elizabeth Harrison,  Lisa Jemmings, Shirley Limburg, Saron Raut, Mara Schemel, and Sumit Patel
 
 The folder named 'data' contains the original data files.
 The folder nameed 'cleanData' contains cleaned data files.
@@ -22,9 +16,9 @@ In order to successfully run the files in the folder named 'Mara':
    You will need a google API key. Place your API key in the config.py file
     
    You will also need to have plotly installed:
-   Use this command to install plotly:   pip install plotly==4.12.0
-   Use this command to provide Jupyter Notebook Support for plotly: pip install "notebook>=5.3" "ipywidgets>=7.2"
-   Or visit: https://plotly.com/python/getting-started/
+   - Use this command to install plotly:   pip install plotly==4.12.0
+   - Use this command to provide Jupyter Notebook Support for plotly: pip install "notebook>=5.3" "ipywidgets>=7.2"
+   - Or visit: https://plotly.com/python/getting-started/
 
    For more information on how to use choropleth maps from plotly visit: https://plotly.com/python/choropleth-maps/
     
