@@ -8,13 +8,10 @@ The folder named 'cleanData' contains cleaned data files.
     The file evaluating_data.ipynb was used during the initial exploration of the data.
     The file Data_Cleaning.ipynb was used for the final data cleaning, merging, and exporting.
 
-Project-one_completed contains our group presentation and Write up 
-    Human Trafficking - Data Analysis.pptx
-        Contains audio recording from class presentation 
-    Project 1 Write Up - Human Trafficking.docx
-        Contains descriptive analysis on our project. 
+Project-one_completed contains our group presentation and Write up:
+- Human Trafficking - Data Analysis.pptx == Contains audio recording from class presentation
+- Project 1 Write Up - Human Trafficking.docx == Contains descriptive analysis on our project. 
 
-Our group write-up/final analysis can be found in file:
 
 Saron's folder contains data analysis and visualizations based on Recruiter Relationship and Age Group:
 - Saron-trafficking.ipynb MAIN NOTEBOOK. all data used for the project. 
