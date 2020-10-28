@@ -13,12 +13,12 @@ Our group write-up/final analysis can be found in file:
 
 
 In order to successfully run the files in the folder named 'Mara':
-    - You will need a google API key. Place your API key in the config.py file
-    - You will also need to have plotly installed:
-        - Use this command to install plotly:   pip install plotly==4.12.0
-        - Use this command to provide Jupyter Notebook Support for plotly: pip install "notebook>=5.3" "ipywidgets>=7.2"
-        - Or visit: https://plotly.com/python/getting-started/
-    - For more information on how to use choropleth maps from plotly visit: https://plotly.com/python/choropleth-maps/
+- You will need a google API key. Place your API key in the config.py file
+- You will also need to have plotly installed:
+        > Use this command to install plotly:   pip install plotly==4.12.0
+        > Use this command to provide Jupyter Notebook Support for plotly: pip install "notebook>=5.3" "ipywidgets>=7.2"
+        > Or visit: https://plotly.com/python/getting-started/
+- For more information on how to use choropleth maps from plotly visit: https://plotly.com/python/choropleth-maps/
     
 
 Data Sources:
