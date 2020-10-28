@@ -18,7 +18,7 @@ Liz_working_files folder contains data analysis and visualizations based on Citi
 
 Mara folder contains data analysis map visulalizations supporting the findings from Liz
 
-Sumit folder contains data analysis and visualizations based on Industry and Age Group
+Sumit folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors.
 
 Lisa folder contains data analysis and visualizations including data for population density
 
