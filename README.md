@@ -4,7 +4,7 @@ This is the first project for the Data Analytics Boot Camp.
 The members of this project team are: Elizabeth Harrison,  Lisa Jemmings, Shirley Limburg, Saron Raut, Mara Schemel, and Sumit Patel
 
 The folder named 'data' contains the original data files.
-The folder nameed 'cleanData' contains cleaned data files.
+The folder named 'cleanData' contains cleaned data files.
     The file evaluating_data.ipynb was used during the initial exploration of the data.
     The file Data_Cleaning.ipynb was used for the final data cleaning, merging, and exporting.
 
@@ -28,9 +28,15 @@ saron_working_file folder contains data analysis and visualizations based on Rec
 
 Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country
 
+<<<<<<< HEAD
 Mara folder contains data analysis map visulalizations supporting the findings from Liz
 
 Sumit folder contains data analysis and visualizations based on Industry and Age Group
+=======
+Mara folder contains data analysis map visualizations supporting the findings from Liz
+
+Sumit folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors
+>>>>>>> c8d80e8d1aef805bcdb3be55ee605b1ecb83c4a7
 
 Lisa folder contains data analysis and visualizations including data for population density
 
