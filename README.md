@@ -16,22 +16,21 @@ Project-one_completed contains our group presentation and Write up
 
 Our group write-up/final analysis can be found in file:
 
-Saron's folder contains data analysis and visualizations based on Recruiter Relationship and Age Group
+Saron's folder contains data analysis and visualizations based on Recruiter Relationship and Age Group:
+- Saron-trafficking.ipynb MAIN NOTEBOOK. all data used for the project. 
+- png folder has .png for all the visual graphs
+- cleanData is the copy of cleanData from main branch
+- Test_group.ipynb is test notebook for code snippets
+- Nested_Pie_Chart-Copy1.ipynb collaborative effort with Liz to creating nesting pie chart
+- Nested_Pie_Chart.ipynb created as a template collaborative effort with Liz
+- color_liz.xlsx excel data on colors assigned for nesting Pie Chart
+
 
 Liz's folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country:
 
 - Data_Exploration.ipynb --> this is the starting point of my data exploration and visualization and is a working file that was subsequently organized into the following two files:
 - Where From Organized.ipynb --> All the code pertaining to trafficking victims area of citizenship
 - Exploited.ipynb --> All the code pertaining to trafficking victims area of exploitation
-=======
-    Saron-trafficking.ipynb MAIN NOTEBOOK. all data used for the project. 
-    png folder has .png for all the visual graphs
-    cleanData is the copy of cleanData from main branch
-    Test_group.ipynb is test notebook for code snippets
-    Nested_Pie_Chart-Copy1.ipynb collaborative effort with Liz to creating nesting pie chart
-    Nested_Pie_Chart.ipynb created as a template collaborative effort with Liz
-    color_liz.xlsx excel data on colors assigned for nesting Pie Chart
-
 
 
 Mara's folder contains data analysis and map visulalizations supporting the findings from Liz
