@@ -14,7 +14,11 @@ Our group write-up/final analysis can be found in file:
 
 saron_working_file folder contains data analysis and visualizations based on Recruiter Relationship and Age Group
 
-Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country
+Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country:
+    Data_Exploration.ipynb --> this is the starting point of my data exploration and is not a finished file
+        this file was organized into two files
+    Where From Organized.ipynb --> All the code pertaining to trafficking victims area of citizenship
+    Exploited.ipynb --> All the code pertaining to trafficking victims area of exploitation
 
 Mara folder contains data analysis map visulalizations supporting the findings from Liz
 
