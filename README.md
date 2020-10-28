@@ -9,7 +9,20 @@ The folder nameed 'cleanData' contains cleaned data files.
     The file Data_Cleaning.ipynb was used for the final data cleaning, merging, and exporting.
 
 Our group presentation can be found in file: 
+
 Our group write-up/final analysis can be found in file:
+
+saron_working_file folder contains data analysis and visualizations based on Recruiter Relationship and Age Group
+
+Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country
+
+Mara folder contains data analysis map visulalizations supporting the findings from Liz
+
+Sumit folder contains data analysis and visualizations based on Industry and Age Group
+
+Lisa folder contains data analysis and visualizations including data for population density
+
+Shirley folder contains data analysis and visualizations including data for economic factors and government type
 
 
 In order to successfully run the files in the folder named 'Mara':
