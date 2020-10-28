@@ -9,21 +9,28 @@ The folder nameed 'cleanData' contains cleaned data files.
     The file Data_Cleaning.ipynb was used for the final data cleaning, merging, and exporting.
 
 Our group presentation can be found in file: 
+    
+    Human Trafficking - Data Analysis.pptx
+        Contains audio recording from class presentation 
 
 Our group write-up/final analysis can be found in file:
 
 saron_working_file folder contains data analysis and visualizations based on Recruiter Relationship and Age Group
 
-Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country:
+    Saron-trafficking.ipynb MAIN NOTEBOOK. all data used for the project. 
+    png folder has .png for all the visual graphs
+    cleanData is the copy of cleanData from main branch
+    Test_group.ipynb is test notebook for code snippets
+    Nested_Pie_Chart-Copy1.ipynb collaborative effort with Liz to creating nesting pie chart
+    Nested_Pie_Chart.ipynb created as a template collaborative effort with Liz
+    color_liz.xlsx excel data on colors assigned for nesting Pie Chart
 
--Data_Exploration.ipynb --> this is the starting point of my data exploration and is not a finished file
-    and was organized into the two following files
--Where From Organized.ipynb --> All the code pertaining to trafficking victims area of citizenship
--Exploited.ipynb --> All the code pertaining to trafficking victims area of exploitation
 
-Mara folder contains data analysis and visualizations supporting the findings from Liz
+Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country
 
-Sumit folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors.
+Mara folder contains data analysis map visulalizations supporting the findings from Liz
+
+Sumit folder contains data analysis and visualizations based on Industry and Age Group
 
 Lisa folder contains data analysis and visualizations including data for population density
 
