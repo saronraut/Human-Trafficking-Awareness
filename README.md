@@ -12,22 +12,21 @@ Our group presentation can be found in file:
 
 Our group write-up/final analysis can be found in file:
 
-saron_working_file folder contains data analysis and visualizations based on Recruiter Relationship and Age Group
+Saron's folder contains data analysis and visualizations based on Recruiter Relationship and Age Group
 
-Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country:
+Liz's folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country:
 
--Data_Exploration.ipynb --> this is the starting point of my data exploration and is not a finished file
-    and was organized into the two following files
--Where From Organized.ipynb --> All the code pertaining to trafficking victims area of citizenship
--Exploited.ipynb --> All the code pertaining to trafficking victims area of exploitation
+- Data_Exploration.ipynb --> this is the starting point of my data exploration and visualization and is a working file that was subsequently organized into the following two files:
+- Where From Organized.ipynb --> All the code pertaining to trafficking victims area of citizenship
+- Exploited.ipynb --> All the code pertaining to trafficking victims area of exploitation
 
-Mara folder contains data analysis map visulalizations supporting the findings from Liz
+Mara's folder contains data analysis map visulalizations supporting the findings from Liz
 
-Sumit folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors.
+Sumit's folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors.
 
-Lisa folder contains data analysis and visualizations including data for population density
+Lisa's folder contains data analysis and visualizations including data for population density
 
-Shirley folder contains data analysis and visualizations including data for economic factors and government type
+Shirley's folder contains data analysis and visualizations including data for economic factors and government type
 
 
 In order to successfully run the files in the folder named 'Mara':
