@@ -35,18 +35,10 @@ Liz's folder contains data analysis and visualizations based on Citizenship Coun
 
 
 Liz_working_files folder contains data analysis and visualizations based on Citizenship Country and Exploitation Country
->>>>>>> 85d0d284537d5ed1651451b5561061ea1f43fa67
 
 Mara's folder contains data analysis map visulalizations supporting the findings from Liz
 
-<<<<<<< HEAD
-Sumit's folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors.
-=======
-Sumit folder contains data analysis and visualizations based on Industry and Age Group
-Mara folder contains data analysis map visualizations supporting the findings from Liz
-
-Sumit folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors
->>>>>>> 85d0d284537d5ed1651451b5561061ea1f43fa67
+Sumit folder contains data analysis and visualizations based on labor and sexual exploitation.
 
 Lisa's folder contains data analysis and visualizations including data for population density
 
