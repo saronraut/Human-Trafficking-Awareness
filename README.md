@@ -19,9 +19,9 @@ Our group write-up/final analysis can be found in file:
 
 
 In order to successfully run the files in the folder named 'Mara':
-   - You will need a google API key. Place your API key in the config.py file
+   You will need a google API key. Place your API key in the config.py file
     
-   - You will also need to have plotly installed.
+   You will also need to have plotly installed:
      Use this command to install plotly:   pip install plotly==4.12.0
      Use this command to provide Jupyter Notebook Support for plotly: pip install "notebook>=5.3" "ipywidgets>=7.2"
      Or visit: https://plotly.com/python/getting-started/
@@ -30,9 +30,9 @@ In order to successfully run the files in the folder named 'Mara':
     
 
 Data Sources:
-https://worldpopulationreview.com/state-rankings/human-trafficking-statistics-by-state
-https://www.dhs.gov/sites/default/files/publications/20_0115_plcy_human-trafficking-forced-labor-child-exploit-strategy.pdf 
-https://www.dhs.gov/sites/default/files/publications/4146_CombattingHumanTraffickingThroughSocialScience.pdf
-https://data.worldbank.org/ , [10,2020]
-https://worldpopulationreview.com/ , [10, 2020]
-https://www.ctdatacollaborative.org  , [10, 2020]
+- https://worldpopulationreview.com/state-rankings/human-trafficking-statistics-by-state
+- https://www.dhs.gov/sites/default/files/publications/20_0115_plcy_human-trafficking-forced-labor-child-exploit-strategy.pdf 
+- https://www.dhs.gov/sites/default/files/publications/4146_CombattingHumanTraffickingThroughSocialScience.pdf
+- https://data.worldbank.org/ , [10,2020]
+- https://worldpopulationreview.com/ , [10, 2020]
+- https://www.ctdatacollaborative.org  , [10, 2020]
