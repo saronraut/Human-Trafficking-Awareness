@@ -21,7 +21,7 @@ Liz_working_files folder contains data analysis and visualizations based on Citi
 -Where From Organized.ipynb --> All the code pertaining to trafficking victims area of citizenship
 -Exploited.ipynb --> All the code pertaining to trafficking victims area of exploitation
 
-Mara folder contains data analysis map visulalizations supporting the findings from Liz
+Mara folder contains data analysis and visualizations supporting the findings from Liz
 
 Sumit folder contains data analysis and visualizations based on Labor exploitation sectors and Sexual exploitation sectors.
 
